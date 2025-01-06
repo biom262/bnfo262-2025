@@ -135,11 +135,6 @@ Please use office hours for questions regarding the homework assignments or take
 
 > If you must email regarding a question, please do not expect a response unless it is within working hours (Monday-Friday, 8:00 AM - 8:00 PM PST), otherwise, there is no guarantee you will receive a response.
 
-## What's the course schedule?
-You can find the schedule of what we'll be covering day-by-day at the following Google Sheets link:
-
-https://docs.google.com/spreadsheets/d/1F10f4TpqjZ0mAGcIrSOivTD-fA1zvmjv/edit?usp=sharing&ouid=102134196267797631717&rtpof=true&sd=true
-
 ## What if I can't log into DataHub?
 Try the suggestions in this doc and see if they help:
 
