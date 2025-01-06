@@ -18,9 +18,9 @@ BNFO262/BGGN237/BIOM262 is designed to teach experimental and analytical approac
 **Teaching Assistant 4:** Jenny Dong (wed009@ucsd.edu)<br>
 
 ### Lecturers
-As each module is taught by a separate lecturer, their contact information is provided in the syllabus table at the following Google Sheets link:
+As each module is taught by a separate lecturer, their contact information is provided in the syllabus table:
 
-[Syllabus table](https://ucsdcloud-my.sharepoint.com/:x:/g/personal/jjauregu_ucsd_edu/Edtt-5hfnbhDslm67ZwyO-QBwlWqr3-jsNFPjxsDRZ60og?e=ppQQ7Y)
+<img width="1306" alt="Syllabus table" src="https://github.com/user-attachments/assets/3e9bcb20-8dbd-44d5-9802-6ff24157be76" />
 
 > :warning: **Note:** We will be using Piazza as our primary method of communication for this course!<br>You can join using the link sent out in our first Canvas announcement.
 
@@ -35,8 +35,8 @@ Take a look at [our course material from last year](https://github.com/biom262/b
 - [A book that explains how to use data science libraries in python](https://wesmckinney.com/book/)
 
 ## Where can I attend class?
-Classes are on Tuesday and Thursday from 9:00 AM - 11:50 AM PST in MET Upper Auditorium (Ong Family Upper Auditorium).<br>
-<img width="720" alt="image" src="">
+Classes are held on Tuesdays and Thursdays from 9:00 AM to 11:50 AM PST in MET141 (Tuesday) or MET143 (Thursday).
+Note: On Thursday, January 30, class will be in MET141.
 
 
 ## Will lectures be recorded?
@@ -73,8 +73,8 @@ Homework will be assigned on Thursdays and due on the following Thursday through
   * Released on **2/13/25**
   * Submission via Gradescope on **2/20/25** by 9:00 AM PST
 * **Final Examination:**
-  * Released on **3/13/25**
-  * Submission via Gradescope on **3/21/25** by 11:59 PM PST
+  * Released on **3/11/25**
+  * Submission via Gradescope on **3/18/25** by 11:59 PM PST
 
 ### What's the policy on late submissions?
 If for whatever reason you cannot deliver an assignment by its associated due date, you should inform the course instructor and TAs at least a day before the due date. **For each late submission 10% of the maximal number of points is deducted for every day or part of a day that an assignment is handed in late.**
@@ -88,12 +88,13 @@ We recognize that small mistakes can sometimes propagate into large points deduc
 In order to qualify for a regrade, a student must score below 80% on the assignment and they must resubmit within one week of when the assignment's grades were published. 
 
 ### What's the grading breakdown?
-| Percentage | Category      |
-|------------|---------------|
-|    55%	   | Homework      |
-|    20%	   | Midterm       |
-|    20%	   | Final         |
-|    5%	     | Participation |
+| Percentage   | Category      |
+|--------------|---------------|
+|    55%	     | Homework      |
+|    20%	     | Midterm       |
+|    20%	     | Final         |
+|    5%	       | Participation |
+|    3%	(extra)| Attendance    |
 
 Letter grades are assigned based on the following scale:
 
