@@ -36,7 +36,7 @@ Take a look at [our course material from last year](https://github.com/biom262/b
 
 ## Where can I attend class?
 Classes are held on Tuesdays and Thursdays from 9:00 AM to 11:50 AM PST in MET141 (Tuesday) or MET143 (Thursday).
-Note: On Thursday, January 30, class will be in MET141.
+**Note: On Thursday, January 30, class will be in MET141.**
 
 
 ## Will lectures be recorded?
@@ -60,7 +60,7 @@ We'll be using Gradescope for submitting the homework assignments, as well as th
 
 1. Navigate to the Gradescope Website at https://www.gradescope.com/
 2. Select the link in the header to "Sign Up", and then select the option to sign up as a "Student"
-3. Enter the following Course Entry Code: **`6GE6ND`**
+3. Enter the following Course Entry Code: **`PYZV3Y`**
 4. Input your Full Name, UCSD Email, and UCSD Student ID (should be A#######);
 **Note: If you are auditing the course, please enter AUDITOR as your Student ID**
 5. Select "Sign up as Student" to complete the sign-up process, and then check the email you have provided for the link to set your password and log in information
