@@ -3,4 +3,4 @@ In this module, we will explore a basic introduction to programming concepts in 
 
 [Module 1 Day 1 Slides](https://ucsdcloud-my.sharepoint.com/:p:/g/personal/jjauregu_ucsd_edu/EeG7vdvb66pHogHdFN8l2REB46kBSj4tBDjxYfaVtfNWGg?e=Aue6kf)
 
-[Module 1 Day 2 Slides](https://ucsdcloud-my.sharepoint.com/:p:/g/personal/jjauregu_ucsd_edu/EeG7vdvb66pHogHdFN8l2REB46kBSj4tBDjxYfaVtfNWGg?e=Aue6kf)
+[Module 1 Day 2 Slides](https://ucsdcloud-my.sharepoint.com/:p:/g/personal/jjauregu_ucsd_edu/EWyV3OnxJtpOvtBfvvX_SDkBYo9LQs_Rc_OYgAqvA0xk-Q?e=SFn6Aj)
