@@ -20,7 +20,7 @@ The lecture videos for the 2025 quarter are organized into modules 1 through 10.
 
 You can access the lecture videos for the 2025 quarter by clicking the link below:
 
-[**OneDrive: 2025 Quarter Lecture Videos** (need to be updated)](https://ucsdcloud-my.sharepoint.com/:f:/g/personal/jjauregu_ucsd_edu/Eixrb6oCEQJErgBWJxxlZRUB2xWxFU2NRrrj8vHT7qL6Tw)
+[**OneDrive: 2025 Quarter Lecture Videos**](https://ucsdcloud-my.sharepoint.com/:f:/g/personal/jjauregu_ucsd_edu/Etxg9Nsv7edOvHpe64Sxoc4BJGMhqVgy5wL-RrACTQ_9sA?e=fKjhHq)
 
 ## Course Schedule 
 
